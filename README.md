@@ -27,6 +27,7 @@ addon | version | maintainers | summary
 [mail_notification_clean_status_error](mail_notification_clean_status_error/) | 18.0.1.0.0 | [![sebalix](https://github.com/sebalix.png?size=30px)](https://github.com/sebalix) | Extend Odoo scheduled action to also delete notifications in error.
 [mail_restrict_follower_selection](mail_restrict_follower_selection/) | 18.0.1.0.0 |  | Define a domain from which followers can be selected
 [mail_tracking](mail_tracking/) | 18.0.1.0.0 |  | Email tracking system for all mails sent
+[mail_tracking_mass_mailing](mail_tracking_mass_mailing/) | 18.0.1.0.0 |  | Improve mass mailing email tracking
 
 [//]: # (end addons)
 
